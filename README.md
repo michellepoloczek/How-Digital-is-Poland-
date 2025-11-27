@@ -5,6 +5,7 @@ This project analyses Poland's level of digitalisation in the context of the Eur
 - historical trends over time.
 
 It focuses solely on connectivity, digital skills, business technology integration, and digital public services.
+
 Objectives:
 - cleaning and preparing DESI datasets
 - comparing Poland's DESI score to the EU average
