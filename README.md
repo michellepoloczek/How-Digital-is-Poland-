@@ -3,6 +3,7 @@ This project analyses Poland's level of digitalisation in the context of the Eur
 - the EU average
 - other member states
 - historical trends over time.
+
 It focuses solely on connectivity, digital skills, business technology integration, and digital public services.
 Objectives:
 - cleaning and preparing DESI datasets
@@ -11,6 +12,7 @@ Objectives:
 - indentifying strenghts and weaknesses across DESI dimensions
 - visualizing trends over time
 - producing an interpretable summary of results.
+
 This project is licensed under the MIT License.
 
 
